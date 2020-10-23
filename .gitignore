@@ -1,0 +1,6 @@
+data/GOPRO_LARGE
+others/
+SRN-Pytorch.pyproj
+__pycache__
+.idea
+save\SRNDeblurNet_epoch1909.pth
